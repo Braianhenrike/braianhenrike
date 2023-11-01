@@ -1,7 +1,7 @@
 ### Olá, meu nome é Braian Henrique Gomes
 ### Alguns de meus projetos pessoais: 
  ##
-#### Java / Spring / Microsserviços: 
+#### Java / Spring : 
 
  * [**CRM para empresas de atendimento online(Em desenvolvimento privado)**](https://github.com/Braianhenrike/malin)
  * [**Api de autenticação de usuários**](https://github.com/Braianhenrike/Auth)
