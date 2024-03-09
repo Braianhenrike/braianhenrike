@@ -3,7 +3,7 @@
  ##
 #### Java / Spring : 
 
- * [**Sistema de eventos de corrida de rua (CONFIRA AS FUNCIONALIDADES DO SISTEMA CLICANDO AQUI)   **](https://github.com/Braianhenrike/malin)
+ * [**Sistema de eventos de corrida de rua**](https://github.com/Braianhenrike/malin)
  * [**Api de autenticação de usuários**](https://github.com/Braianhenrike/Auth)
  * [**Conversor de números romanos para reais e reais para romanos**](https://github.com/Braianhenrike/RomanNumbers)
  * [**Lista de Games CRUD basico**](https://github.com/Braianhenrike/GameList)
