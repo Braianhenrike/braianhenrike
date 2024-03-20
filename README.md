@@ -4,6 +4,7 @@
 #### Java / Spring : 
 
  * [**Sistema de eventos de corrida de rua**](https://github.com/Braianhenrike/sport-events)
+ * [**Ecommerce**](https://github.com/Braianhenrike/ecommerce)
  * [**Api de autenticação de usuários**](https://github.com/Braianhenrike/Auth)
  * [**Conversor de números romanos para reais e reais para romanos**](https://github.com/Braianhenrike/RomanNumbers)
  * [**Lista de Games CRUD basico**](https://github.com/Braianhenrike/GameList)
@@ -11,7 +12,8 @@
  ##
  
 #### React / SCSS / Javascript / Typescript / HTML / CSS
- * [**CRM para empresas de atendimento online(Em desenvolvimento privado) - React e SCSS **](https://github.com/Braianhenrike/malin)
+ * [**Sistema de eventos de corrida de rua**](https://github.com/Braianhenrike/sport-events)
+ * [**Ecommerce**](https://github.com/Braianhenrike/ecommerce)
  * [**Login e registrar usuários autenticando na API Auth (API própria)**](https://github.com/Braianhenrike/login)
  * [**Tela estática 3D HTML CSS**](https://github.com/Braianhenrike/Inspiration-on-pinterest)
  * [**Trending movies week API rest - JavaScript HTML CSS**](https://github.com/Braianhenrike/3035flix)
